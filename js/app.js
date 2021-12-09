@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Test_AR_Rotate.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Test_ar_ceramique.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
