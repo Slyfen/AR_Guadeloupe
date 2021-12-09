@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ARWT",
+"productVersion": "0.1",
+"dataUrl": "Test_MarkerLess.data.unityweb",
+"wasmCodeUrl": "Test_MarkerLess.wasm",
+"wasmFrameworkUrl": "Test_MarkerLess.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
