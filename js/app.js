@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Test_ar_ceramique.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Test_Barreaux.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
